@@ -7,7 +7,7 @@
 
 ## Installation
 
-**❗ In order to start using Whats New In Dart 3 0 you must have the [Dart SDK][dart_install_link] installed on your machine.**
+**❗ In order to start using Whats New In Dart 3.0 you must have the [Dart SDK][dart_install_link] installed on your machine.**
 
 Add `whats_new_in_dart_3_0` to your `pubspec.yaml`:
 
