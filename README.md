@@ -1,4 +1,4 @@
-# Whats New In Dart 3 0
+# Whats New In Dart 3.0
 
 This is an Dart project that demonstrates the new features introduced in Dart 3.0:
 
